@@ -1,0 +1,11 @@
+Library
+Temp
+build
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.userprefs
+*.vs
+Thumbs.db*
+obj/Debug
